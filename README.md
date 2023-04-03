@@ -2,4 +2,4 @@
 Document for the student of Compiler Class 
 
 This document was created for the compiler class in the year 1401-1402, semester 2.
-You could find every necessary file here.
+You could find any necessary files here.
